@@ -9,5 +9,3 @@ teleportar = false
 l = part_system_create(part_portal)
 part_system_position(l,x,y-100)
 
-
-

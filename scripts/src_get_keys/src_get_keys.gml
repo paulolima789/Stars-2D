@@ -8,7 +8,7 @@ _key_up = keyboard_check(ord("W")); //
 _key_jump = keyboard_check(vk_space); //jump
 _key_ctrl = keyboard_check(vk_control); // barreira
 _key_shoot = keyboard_check_pressed(ord("E")) // atira
-_key_agir = keyboard_check(ord("F")); //agir
+_key_agir = keyboard_check_pressed(ord("F")); //agir
 
 #endregion
 

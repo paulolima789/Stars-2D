@@ -8,7 +8,9 @@ teleportar=false
 }
 
 if _key_agir && teleportar{
-	obj_player_2.x = id._alvoX
-	obj_player_2.y = id._alvoY
+	a = _id
+	show_debug_message(string(a))
+	obj_player_2.x = a.x
+	obj_player_2.y = a.y
 }
 
