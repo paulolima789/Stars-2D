@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_play",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_controll",
+  "eventList":[],
   "managed":true,
-  "name":"obj_button_play",
+  "name":"obj_controll",
   "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objetos/menu.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_button_play",
-    "path":"sprites/spr_button_play/spr_button_play.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

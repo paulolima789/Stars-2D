@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_portal",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_portal_2",
+  "eventList":[],
   "managed":true,
-  "name":"obj_portal",
+  "name":"obj_portal_2",
   "overriddenProperties":[],
   "parent":{
     "name":"wall_construção",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_portais",
-    "path":"sprites/spr_portais/spr_portais.yy",
+    "name":"spr_portal_2",
+    "path":"sprites/spr_portal_2/spr_portal_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
