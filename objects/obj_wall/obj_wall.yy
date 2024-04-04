@@ -6,8 +6,8 @@
   "name":"obj_wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"wall_construção",
-    "path":"folders/Objetos/wall_construção.yy",
+    "name":"solidTerrain",
+    "path":"folders/Objetos/solidTerrain.yy",
   },
   "parentObjectId":null,
   "persistent":false,

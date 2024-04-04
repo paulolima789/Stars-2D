@@ -17,4 +17,6 @@ xscale = 1;
 
 mostra_estado = false
 
-estado = "Parado"
+
+
+gravidade = .4;

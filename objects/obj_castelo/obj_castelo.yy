@@ -8,8 +8,8 @@
   "name":"obj_castelo",
   "overriddenProperties":[],
   "parent":{
-    "name":"wall_construção",
-    "path":"folders/Objetos/wall_construção.yy",
+    "name":"castle",
+    "path":"folders/Objetos/level/castle.yy",
   },
   "parentObjectId":null,
   "persistent":false,

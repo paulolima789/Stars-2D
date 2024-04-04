@@ -1,6 +1,0 @@
-
-function cooldawn(){
-
-}
-
-// teste brilhante

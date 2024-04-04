@@ -10,8 +10,8 @@
   "name":"obj_spawn",
   "overriddenProperties":[],
   "parent":{
-    "name":"wall_construção",
-    "path":"folders/Objetos/wall_construção.yy",
+    "name":"spawners",
+    "path":"folders/Objetos/level/spawners.yy",
   },
   "parentObjectId":null,
   "persistent":false,

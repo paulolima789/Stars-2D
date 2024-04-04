@@ -10,8 +10,8 @@
   "name":"obj_portal",
   "overriddenProperties":[],
   "parent":{
-    "name":"wall_construção",
-    "path":"folders/Objetos/wall_construção.yy",
+    "name":"portals",
+    "path":"folders/Objetos/level/portals.yy",
   },
   "parentObjectId":null,
   "persistent":false,
